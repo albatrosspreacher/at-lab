@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">l1q1</string>
-    <string name="username_text"></string>
-    <string name="password_text" />
-    <string name="signin_text" />
+    <string name="name">Jane Doe</string>
+    <string name="imageDesc">avatar</string>
+    <string name="btnText">Back</string>
+    <string name="loremIpsum">Eligendi vel aut nam temporibus alias explicabo suscipit rerum. Modi consequuntur dolorem aut id ipsam libero. Voluptatem tempora doloremque expedita.
+Delectus quia maxime perferendis earum nulla id est. Vitae voluptas molestiae eius deleniti. Accusamus provident debitis et labore id quae facere. Aspernatur aut repellat unde. Temporibus laborum qui atque ullam sed illo molestiae. Minus sunt est explicabo asperiores fugit nisi corrupti animi.
+Eius dolorum iure magni officiis eaque quibusdam aliquid hic. Vel voluptates explicabo aliquid inventore. Animi repellendus enim officiis veritatis delectus fuga praesentium. Quod vero est doloribus atque voluptas. Cupiditate sed eos quidem quam.
+Aut aliquid et quae dolores eius qui. Ut ut quis corrupti distinctio eius qui maiores in. Ut illo quod aut quas expedita et.
+Id maxime ut ab. Mollitia velit dicta odio consequuntur dicta. Ut amet excepturi tenetur esse soluta ut.</string>
 </resources>
