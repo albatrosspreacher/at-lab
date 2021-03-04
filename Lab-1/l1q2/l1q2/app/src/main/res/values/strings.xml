@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">l1q2</string>
+    <string name="email">e-Mail</string>
+    <string name="password">Password</string>
+    <string name="phone">Mobile Number</string>
+    <string name="btnText">Validate</string>
+    <string name="btnText1">Message</string>
+</resources>
